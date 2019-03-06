@@ -1,0 +1,23 @@
+{
+  "name": "sending-emails-with-express-mailer-gmail-smtp",
+  "version": "1.0.0",
+  "description": "by arjunphp.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gmail",
+    "smpt",
+    "express",
+    "mailer",
+    "demo"
+  ],
+  "author": "arjunphp.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-mailer": "^0.3.1",
+    "pug": "^2.0.0-beta6"
+  }
+}
